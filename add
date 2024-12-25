@@ -1,0 +1,11 @@
+[33mcommit 5feb40f10b7a4457952e4f8c4b287d89cde9cbfa[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: vtr <vtr@DESKTOP-4JH9Q28>
+Date:   Wed Dec 25 08:32:16 2024 -0300
+
+    Adicionar arquivos de projeto.
+
+[33mcommit ec82d51735b52fe41a6f823952ac091ba2e3884a[m
+Author: vtr <vtr@DESKTOP-4JH9Q28>
+Date:   Wed Dec 25 08:32:10 2024 -0300
+
+    Adicione .gitattributes, .gitignore e README.md.

@@ -1,4 +1,4 @@
-namespace tabuleiro
+namespace XadresConsole.tabuleiro
 {
     class Tabuleiro
     {
@@ -15,6 +15,12 @@ namespace tabuleiro
         public Peca peca(int linha, int coluna)
         {
             return pecas[linha, coluna];
+        }
+
+        public void colocarPeca(Peca p, Posicao pos)
+        {
+            pecas[pos.linha, pos.coluna] = p;
+            p.posicao = pos;
         }
     }
 }

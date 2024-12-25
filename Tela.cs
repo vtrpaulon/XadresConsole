@@ -1,5 +1,5 @@
 using System;
-using tabuleiro;
+using XadresConsole.tabuleiro;
 
 namespace XadresConsole
 {
